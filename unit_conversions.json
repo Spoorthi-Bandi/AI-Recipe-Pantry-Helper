@@ -1,0 +1,15 @@
+{
+  "volume": {
+    "cup_to_ml": 240,
+    "tbsp_to_ml": 15,
+    "tsp_to_ml": 5,
+    "cup_to_tbsp": 16,
+    "tbsp_to_tsp": 3
+  },
+  "weight": {
+    "oz_to_g": 28.35,
+    "lb_to_g": 453.6,
+    "kg_to_g": 1000
+  },
+  "notes": "Multiply a quantity by the factor to convert. Example: 2 cup -> ml = 2 * 240 = 480 ml."
+}

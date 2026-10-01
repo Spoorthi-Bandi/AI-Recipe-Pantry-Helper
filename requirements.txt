@@ -1,0 +1,9 @@
+
+streamlit
+langchain-groq
+langchain-community
+langchain-core
+chromadb
+fastembed
+pydantic
+Pillow

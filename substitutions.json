@@ -1,0 +1,49 @@
+{
+  "butter": [
+    "oil",
+    "ghee",
+    "margarine"
+  ],
+  "egg": [
+    "flax egg (1 tbsp flaxseed + 3 tbsp water)",
+    "1/4 cup mashed banana",
+    "1/4 cup applesauce"
+  ],
+  "milk": [
+    "almond milk",
+    "soy milk",
+    "oat milk",
+    "water + 1 tbsp butter"
+  ],
+  "cream": [
+    "evaporated milk",
+    "cashew cream",
+    "coconut cream"
+  ],
+  "paneer": [
+    "tofu",
+    "halloumi"
+  ],
+  "yogurt": [
+    "sour cream",
+    "coconut yogurt"
+  ],
+  "sugar": [
+    "honey",
+    "jaggery",
+    "maple syrup"
+  ],
+  "soy sauce": [
+    "tamari (gluten-free)",
+    "coconut aminos"
+  ],
+  "flour": [
+    "whole wheat flour",
+    "oat flour",
+    "gluten-free flour blend"
+  ],
+  "cheese": [
+    "nutritional yeast (vegan)",
+    "cashew cheese"
+  ]
+}

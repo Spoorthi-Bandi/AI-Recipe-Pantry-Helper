@@ -1,0 +1,754 @@
+[
+  {
+    "id": "r01",
+    "name": "Masala Omelette",
+    "cuisine": "Indian",
+    "dietary": [
+      "vegetarian",
+      "gluten-free",
+      "contains-egg",
+      "quick"
+    ],
+    "servings": 1,
+    "time_minutes": 10,
+    "ingredients": [
+      {
+        "item": "eggs",
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "item": "onion",
+        "quantity": 0.25,
+        "unit": "cup"
+      },
+      {
+        "item": "tomato",
+        "quantity": 0.25,
+        "unit": "cup"
+      },
+      {
+        "item": "green chilli",
+        "quantity": 1,
+        "unit": "pcs"
+      },
+      {
+        "item": "coriander",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "item": "oil",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "item": "salt",
+        "quantity": 0.25,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Beat the eggs with salt.",
+      "Mix in chopped onion, tomato, chilli and coriander.",
+      "Heat oil in a pan and pour the mixture.",
+      "Cook 2-3 minutes per side until set."
+    ]
+  },
+  {
+    "id": "r02",
+    "name": "Vegetable Fried Rice",
+    "cuisine": "Chinese",
+    "dietary": [
+      "vegan",
+      "contains-soy",
+      "quick"
+    ],
+    "servings": 2,
+    "time_minutes": 20,
+    "ingredients": [
+      {
+        "item": "cooked rice",
+        "quantity": 2,
+        "unit": "cup"
+      },
+      {
+        "item": "mixed vegetables",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "item": "soy sauce",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "item": "garlic",
+        "quantity": 2,
+        "unit": "cloves"
+      },
+      {
+        "item": "spring onion",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "item": "oil",
+        "quantity": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Heat oil, saute garlic.",
+      "Add vegetables and stir-fry 3 minutes.",
+      "Add rice and soy sauce, toss on high heat.",
+      "Garnish with spring onion."
+    ]
+  },
+  {
+    "id": "r03",
+    "name": "Spaghetti Aglio e Olio",
+    "cuisine": "Italian",
+    "dietary": [
+      "vegan",
+      "contains-gluten"
+    ],
+    "servings": 2,
+    "time_minutes": 20,
+    "ingredients": [
+      {
+        "item": "spaghetti",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "item": "garlic",
+        "quantity": 4,
+        "unit": "cloves"
+      },
+      {
+        "item": "olive oil",
+        "quantity": 4,
+        "unit": "tbsp"
+      },
+      {
+        "item": "chilli flakes",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "item": "parsley",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "item": "salt",
+        "quantity": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Boil spaghetti in salted water until al dente.",
+      "Warm olive oil and gently cook sliced garlic and chilli flakes.",
+      "Toss drained pasta in the oil with a splash of pasta water.",
+      "Finish with parsley."
+    ]
+  },
+  {
+    "id": "r04",
+    "name": "Chicken Curry",
+    "cuisine": "Indian",
+    "dietary": [
+      "contains-dairy",
+      "gluten-free"
+    ],
+    "servings": 4,
+    "time_minutes": 40,
+    "ingredients": [
+      {
+        "item": "chicken",
+        "quantity": 500,
+        "unit": "g"
+      },
+      {
+        "item": "onion",
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "item": "tomato",
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "item": "yogurt",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "item": "ginger garlic paste",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "item": "garam masala",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "item": "oil",
+        "quantity": 3,
+        "unit": "tbsp"
+      },
+      {
+        "item": "salt",
+        "quantity": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Saute onions in oil until golden.",
+      "Add ginger garlic paste, then tomatoes and spices.",
+      "Add chicken and yogurt, cook till sealed.",
+      "Simmer covered 20 minutes until cooked through."
+    ]
+  },
+  {
+    "id": "r05",
+    "name": "Chana Masala",
+    "cuisine": "Indian",
+    "dietary": [
+      "vegan",
+      "gluten-free"
+    ],
+    "servings": 3,
+    "time_minutes": 30,
+    "ingredients": [
+      {
+        "item": "chickpeas",
+        "quantity": 2,
+        "unit": "cup"
+      },
+      {
+        "item": "onion",
+        "quantity": 1,
+        "unit": "pcs"
+      },
+      {
+        "item": "tomato",
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "item": "ginger garlic paste",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "item": "chana masala powder",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "item": "oil",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "item": "salt",
+        "quantity": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Saute onion, add ginger garlic paste.",
+      "Add tomato and spices, cook to a paste.",
+      "Add boiled chickpeas and water.",
+      "Simmer 15 minutes."
+    ]
+  },
+  {
+    "id": "r06",
+    "name": "Margherita Pizza",
+    "cuisine": "Italian",
+    "dietary": [
+      "vegetarian",
+      "contains-gluten",
+      "contains-dairy"
+    ],
+    "servings": 2,
+    "time_minutes": 30,
+    "ingredients": [
+      {
+        "item": "pizza base",
+        "quantity": 1,
+        "unit": "pcs"
+      },
+      {
+        "item": "tomato sauce",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "item": "mozzarella",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "item": "basil",
+        "quantity": 6,
+        "unit": "leaves"
+      },
+      {
+        "item": "olive oil",
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Spread sauce over the base.",
+      "Add mozzarella and a drizzle of oil.",
+      "Bake at 220C for 10-12 minutes.",
+      "Top with fresh basil."
+    ]
+  },
+  {
+    "id": "r07",
+    "name": "Greek Salad",
+    "cuisine": "Greek",
+    "dietary": [
+      "vegetarian",
+      "gluten-free",
+      "contains-dairy",
+      "quick"
+    ],
+    "servings": 2,
+    "time_minutes": 10,
+    "ingredients": [
+      {
+        "item": "cucumber",
+        "quantity": 1,
+        "unit": "pcs"
+      },
+      {
+        "item": "tomato",
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "item": "feta cheese",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "item": "olives",
+        "quantity": 0.25,
+        "unit": "cup"
+      },
+      {
+        "item": "olive oil",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "item": "oregano",
+        "quantity": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Chop cucumber and tomato.",
+      "Add olives and cubed feta.",
+      "Dress with olive oil and oregano."
+    ]
+  },
+  {
+    "id": "r08",
+    "name": "Pancakes",
+    "cuisine": "American",
+    "dietary": [
+      "vegetarian",
+      "contains-gluten",
+      "contains-egg",
+      "contains-dairy"
+    ],
+    "servings": 3,
+    "time_minutes": 20,
+    "ingredients": [
+      {
+        "item": "flour",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "item": "milk",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "item": "eggs",
+        "quantity": 1,
+        "unit": "pcs"
+      },
+      {
+        "item": "sugar",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "item": "baking powder",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "item": "butter",
+        "quantity": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk flour, sugar and baking powder.",
+      "Add milk, egg and melted butter to a smooth batter.",
+      "Cook ladlefuls on a greased pan until bubbles form, then flip."
+    ]
+  },
+  {
+    "id": "r09",
+    "name": "Guacamole",
+    "cuisine": "Mexican",
+    "dietary": [
+      "vegan",
+      "gluten-free",
+      "quick"
+    ],
+    "servings": 2,
+    "time_minutes": 10,
+    "ingredients": [
+      {
+        "item": "avocado",
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "item": "onion",
+        "quantity": 0.25,
+        "unit": "cup"
+      },
+      {
+        "item": "tomato",
+        "quantity": 0.25,
+        "unit": "cup"
+      },
+      {
+        "item": "lime",
+        "quantity": 1,
+        "unit": "pcs"
+      },
+      {
+        "item": "coriander",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "item": "salt",
+        "quantity": 0.5,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Mash avocado with salt and lime juice.",
+      "Fold in chopped onion, tomato and coriander."
+    ]
+  },
+  {
+    "id": "r10",
+    "name": "Tomato Soup",
+    "cuisine": "Continental",
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "servings": 3,
+    "time_minutes": 30,
+    "ingredients": [
+      {
+        "item": "tomato",
+        "quantity": 6,
+        "unit": "pcs"
+      },
+      {
+        "item": "onion",
+        "quantity": 1,
+        "unit": "pcs"
+      },
+      {
+        "item": "garlic",
+        "quantity": 2,
+        "unit": "cloves"
+      },
+      {
+        "item": "butter",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "item": "black pepper",
+        "quantity": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "item": "salt",
+        "quantity": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Boil tomato, onion and garlic until soft.",
+      "Blend to a puree and strain.",
+      "Simmer with butter, salt and pepper for 5 minutes."
+    ]
+  },
+  {
+    "id": "r11",
+    "name": "Paneer Butter Masala",
+    "cuisine": "Indian",
+    "dietary": [
+      "vegetarian",
+      "gluten-free",
+      "contains-dairy",
+      "contains-nuts"
+    ],
+    "servings": 3,
+    "time_minutes": 35,
+    "ingredients": [
+      {
+        "item": "paneer",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "item": "tomato",
+        "quantity": 4,
+        "unit": "pcs"
+      },
+      {
+        "item": "cashews",
+        "quantity": 10,
+        "unit": "pcs"
+      },
+      {
+        "item": "butter",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "item": "cream",
+        "quantity": 0.25,
+        "unit": "cup"
+      },
+      {
+        "item": "garam masala",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "item": "salt",
+        "quantity": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Blend boiled tomato and cashews to a puree.",
+      "Cook the puree in butter with spices.",
+      "Add cream and paneer cubes.",
+      "Simmer 5 minutes."
+    ]
+  },
+  {
+    "id": "r12",
+    "name": "Hummus",
+    "cuisine": "Middle Eastern",
+    "dietary": [
+      "vegan",
+      "gluten-free",
+      "quick"
+    ],
+    "servings": 4,
+    "time_minutes": 10,
+    "ingredients": [
+      {
+        "item": "chickpeas",
+        "quantity": 1.5,
+        "unit": "cup"
+      },
+      {
+        "item": "tahini",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "item": "lemon",
+        "quantity": 1,
+        "unit": "pcs"
+      },
+      {
+        "item": "garlic",
+        "quantity": 1,
+        "unit": "cloves"
+      },
+      {
+        "item": "olive oil",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "item": "salt",
+        "quantity": 0.5,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Blend chickpeas, tahini, lemon juice and garlic.",
+      "Add water to loosen and salt to taste.",
+      "Drizzle with olive oil to serve."
+    ]
+  },
+  {
+    "id": "r13",
+    "name": "Banana Smoothie",
+    "cuisine": "Continental",
+    "dietary": [
+      "vegetarian",
+      "gluten-free",
+      "contains-dairy",
+      "quick"
+    ],
+    "servings": 1,
+    "time_minutes": 5,
+    "ingredients": [
+      {
+        "item": "banana",
+        "quantity": 1,
+        "unit": "pcs"
+      },
+      {
+        "item": "milk",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "item": "honey",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "item": "yogurt",
+        "quantity": 0.25,
+        "unit": "cup"
+      }
+    ],
+    "steps": [
+      "Blend all ingredients until smooth.",
+      "Serve chilled."
+    ]
+  },
+  {
+    "id": "r14",
+    "name": "Stir-fried Noodles",
+    "cuisine": "Asian",
+    "dietary": [
+      "vegan",
+      "contains-gluten",
+      "contains-soy"
+    ],
+    "servings": 2,
+    "time_minutes": 20,
+    "ingredients": [
+      {
+        "item": "noodles",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "item": "mixed vegetables",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "item": "soy sauce",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "item": "garlic",
+        "quantity": 2,
+        "unit": "cloves"
+      },
+      {
+        "item": "oil",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "item": "vinegar",
+        "quantity": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Boil noodles and drain.",
+      "Stir-fry garlic and vegetables in oil.",
+      "Add noodles, soy sauce and vinegar; toss."
+    ]
+  },
+  {
+    "id": "r15",
+    "name": "Scrambled Tofu",
+    "cuisine": "Continental",
+    "dietary": [
+      "vegan",
+      "gluten-free",
+      "contains-soy",
+      "quick"
+    ],
+    "servings": 2,
+    "time_minutes": 15,
+    "ingredients": [
+      {
+        "item": "tofu",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "item": "onion",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "item": "turmeric",
+        "quantity": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "item": "bell pepper",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "item": "oil",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "item": "salt",
+        "quantity": 0.5,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Crumble tofu.",
+      "Saute onion and bell pepper in oil.",
+      "Add tofu, turmeric and salt; cook 5 minutes."
+    ]
+  }
+]
