@@ -1,8 +1,9 @@
-
 streamlit
+langchain>=1.0.0
 langchain-groq
 langchain-community
 langchain-core
+langgraph
 chromadb
 fastembed
 pydantic
